@@ -8,5 +8,8 @@ Part 1 will carry you thru on
 - Setting up VS Code with Business Central.
 - Getting familiar with extensions and AL language by customizing the item card.
 
+Resources is R-BAT301 folder.
+
+
 Part 2 will carry you thru on
 - Building a mobile purchase order app using PowerPlatform.
